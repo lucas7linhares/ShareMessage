@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Share Message</string>
+    <string name="button_tweet">Enviar</string>
+    <string name="hint_status">O que você está pensando?</string>
+    <string name="action_settings">Configurações</string>
+    <string name="tweet">Enviar Mensagem</string>
+    <string name="username_summary">Nome de Usuário</string>
+    <string name="username">Nome de Usuário</string>
+    <string name="password"> Senha</string>
+    <string name="password_summary">Senha</string>
+    <string name="auth_config">Autenticação</string>
+    <string name="publish_message_succes">Publicado!</string>
+    <string name="publish_message_failed">Falha na publicação...</string>
+</resources>
