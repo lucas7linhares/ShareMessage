@@ -12,7 +12,7 @@
     <!-- Timeline Fragment 1 -->
     <fragment
         android:id="@+id/fragment_timeline"
-        android:name="com.github.welingtonveiga.mensageiro.view.timeline.TimelineFragment"
+        android:name="lucas.granbery.mensageiro.view.timeline.TimelineFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_centerHorizontal="true" />
